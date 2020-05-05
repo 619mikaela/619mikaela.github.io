@@ -1,0 +1,83 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/srw3pkf.css");
+@import url("https://use.typekit.net/yfi6ijl.css");
+
+img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+div.container {
+    max-width: 50em;
+    margin: auto;
+}
+
+.container h1 {
+    font-family: los-feliz, serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(128,0,32);
+    margin: auto;
+    text-align: center    
+}
+
+.container h2 {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center    
+}
+
+.intro p {
+    text-align: center;
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 300;
+    font-style: normal;    
+}
+
+
+.maincontent h3 {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(34,139,34);
+    text-align: center;
+    margin-top: 2em;
+    text-transform: uppercase
+    
+}
+
+.maincontent ul {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0em 12em 0em 12em;
+    
+}
+
+
+.directions h3 {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(34,139,34);
+    margin: 2em 0em 0em 0em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.directions ol {
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    text-align: center;
+    font-family: franklin-gothic-urw, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
