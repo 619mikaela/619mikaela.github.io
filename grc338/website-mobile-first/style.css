@@ -1,0 +1,91 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/fpv8bgg.css");
+
+img {
+    width: 100%;
+}
+header {
+    width: 100%;
+    clear: both;
+}
+
+h1 {
+    width: 5em;
+    float: left;
+    padding-left: 1em;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    clear:both;
+    color: #EBA7AC;
+    font-family: sweet-sans-pro,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h3 {
+    color: #7abd63;
+    padding-left: 2em;
+}
+
+h4 {
+    font-family: sweet-sans-pro,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    color: rgb(40, 40, 40);
+    font-family: sweet-sans-pro,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+div.mainimage {
+    width: 75%;
+    margin: auto;
+}
+
+
+
+
+nav {
+    float: right;
+    padding: 1em 1em 0em 0em;    
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 1em;
+    text-transform: uppercase;
+    font-family: sweet-sans-pro,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #EBA7AC;
+}
+
+div.home {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.price {
+    font-family: sweet-sans-pro,sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 2.5em;
+}
